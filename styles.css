@@ -18,7 +18,7 @@ body {
   padding: 40px 50px;
   border-radius: 20px;
   width: 95%;
-  max-width: 500px;
+    max-width: 500px;
   text-align: center;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
 }
@@ -75,4 +75,3 @@ a:hover {
 .add-contact-btn:hover {
   background-color: #176c80;
 }
-
