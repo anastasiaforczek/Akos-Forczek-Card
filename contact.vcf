@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Akos Forczek
-N:Forczek;Akos;;;
+FN:Ákos Forczek
+N:Forczek;Ákos;;;
 TITLE:Chairman
 ORG:Top Selection
 TEL;TYPE=CELL:+44 7818 426193
@@ -9,4 +9,5 @@ EMAIL;TYPE=WORK:akos@topselection.co.uk
 ADR;TYPE=WORK:;;23 Cellini St;Nine Elms;London;SW8 2LF;United Kingdom
 URL:https://topselection.co.uk
 END:VCARD
+
 
